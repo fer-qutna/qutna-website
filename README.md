@@ -1,1 +1,0 @@
-# qutna-website
